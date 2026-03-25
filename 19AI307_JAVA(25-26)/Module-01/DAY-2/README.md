@@ -38,8 +38,8 @@ Step 7: If none of the conditions match, print "Floor {number}" and end the prog
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Praveen V
-RegisterNumber:  212222040121
+Developed by: Mahisha S
+RegisterNumber: 212222040095
 */
 ```
 
