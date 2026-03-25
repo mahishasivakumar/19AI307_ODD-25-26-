@@ -50,8 +50,8 @@ Step 7: Stop/End the program.
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Praveen V
-RegisterNumber: 212222040121
+Developed by: Mahisha S
+RegisterNumber: 212222040095
 */
 ```
 
