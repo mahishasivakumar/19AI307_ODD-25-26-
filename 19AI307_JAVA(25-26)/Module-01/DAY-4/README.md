@@ -33,8 +33,8 @@ Step 7: Calculate the average using sum / number_of_elements and print the resul
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: Praveen V
-RegisterNumber: 212222040121
+Developed by: Mahisha S
+RegisterNumber: 212222040095
 */
 ```
 
